@@ -1,0 +1,40 @@
+body{
+	background-color: aqua;
+}
+table{
+	margin:auto;
+}
+table, td{
+	border: 2px solid rgb(0, 0, 0);
+	border-collapse: collapse;
+}
+td{
+	width: 200px;
+	height: 200px;
+}
+.black{
+	background-color: sienna;
+}
+.white{
+	background-color: snow;
+}
+h1{
+	text-align: center;
+}
+#egyediszín{
+	background-color: tomato;
+}
+	.nagydoboz{
+		display: flex;
+	}	
+	.kisdoboz{
+		background-color: blanchedalmond;
+		background-color: blanchedalmond;
+		border: 1px solid palevioletred;
+		border-radius: 15px;
+		margin: 0px 15px;
+		padding: 10px;
+		text-align: justify;
+	}<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
